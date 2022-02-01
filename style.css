@@ -1,1 +1,34 @@
+body{
+    padding-top: 3%;
+    background-color: #40bf63;
+}
+h1{
+    text-align: center;
+}
+.mother{
+    /*background-color: red; */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
 
+.row{
+    display:flex;
+    flex-direction:row;
+}
+
+p{
+    font-size:30px;
+}
+
+.calc{
+    padding-top: 5%;
+    text-align: center;
+}
+
+button{
+    margin: auto;
+    width: 30%;
+    padding: 10px;
+    text-align: center;
+}
